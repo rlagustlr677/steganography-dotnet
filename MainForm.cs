@@ -226,6 +226,11 @@ namespace Steganography
 
         }
 
+        private void ImportTabPage_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void SaveButton_Click(object sender, EventArgs e)
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog();
